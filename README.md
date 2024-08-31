@@ -2,7 +2,7 @@
 - 👀 I’m interested in salesforce package development, Python, and UX
 - 🌱 I’m currently learning Apex 
 - 💞️ I’m looking to collaborate on 2nd generation Packaging and relational data modeling
-- 📫 How to reach me LinkedIn(https://www.linkedin.com/in/margauxduff/) or email(Duffmargaux@gmail.com)
+- 📫 How to reach me LinkedIn(https://www.linkedin.com/in/margauxduff/) or email(Margaux@salesforcesiren.com)
 
 <!---
 duffmargaux/duffmargaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
